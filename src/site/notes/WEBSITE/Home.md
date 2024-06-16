@@ -519,3 +519,5 @@ nota:: En una investigación previa que comparó dos métodos de muestreo, coefi
 | [[NOTAS/Literatura/Zotero/Import/@gandia2022\|@gandia2022]]       | [[NOTAS/Literatura/Zotero/Import/Autores/Gandía, María\|Gandía, María]]               | 2022 | Efficiency of Methodologies Used in the Evaluation of the Weed Seed Bank under Mediterranean Conditions                                         | \-                                                                                                                                                                                                                                                                                                                                                                                                                       | <ul><li><ul><li>#zotero</li></ul></li><li><ul><li>#gpt</li><li>#Basados</li><li>#Muestreo</li></ul></li></ul>                  |
 
 { .block-language-dataview}
+
+aaaa
