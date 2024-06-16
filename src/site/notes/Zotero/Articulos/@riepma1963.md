@@ -1,26 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/home/","tags":["home","gardenEntry"]}
+{"dg-publish":true,"permalink":"/zotero/articulos/riepma1963/","title":"A Comparison of Methods of Recording Herbaceous Weeds in Weed Control Experiments","tags":["zotero"]}
 ---
-
-
-# SONORA WEED SCIENCE
-
-Esta es la página principal de mi Digital Garden.
-
-
-| File                                             | Autor                                        | año  | Título                                                                            | gpt                                                                                                                                                                                                                                                                                                                                           | Etiquetas                                                                                                                   |
-| ------------------------------------------------ | -------------------------------------------- | ---- | --------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------- |
-| [[Zotero/Articulos/@riepma1963\|@riepma1963]] | [[Zotero/Autores/Riepma, P.\|Riepma, P.]] | 1963 | A Comparison of Methods of Recording Herbaceous Weeds in Weed Control Experiments | El artículo compara diferentes métodos para registrar malezas herbáceas en experimentos de control de malezas. Se evalúan la precisión y practicidad de varios enfoques, proporcionando recomendaciones para seleccionar métodos adecuados en investigaciones experimentales ([Riepma y Weng, 1963](zotero://select/library/items/C5EZAFZK)). | <ul><li><ul><li>zotero</li></ul></li><li><ul><li>#leído</li><li>#gpt</li><li>#Basados</li><li>#Muestreo</li></ul></li></ul> |
-
-{ .block-language-dataview}
-
-aaaa
-
-
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/zotero/articulos/riepma1963/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
-
-
-
 
 
 <span style="font-variant:small-caps; font-weight: bold;">A Comparison of Methods of Recording Herbaceous Weeds in Weed Control Experiments</span>
@@ -428,45 +408,3 @@ nota:: En una investigación previa que comparó dos métodos de muestreo, coefi
 
 
 
-
-
-</div></div>
-
-
-
-
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/zotero/autores/riepma-p/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
-
-
-
-
-
-<span style="font-variant:small-caps; font-weight: bold;"> Riepma, P. </span>
-
----
-
-
-## Información General
-
-- **Nacionalidad**:: 
-- **Afiliación**:: 
-- **ORCID**:: 
-- **Google Scholar**:: 
-- **ResearchGate**:: 
-- **Twitter**:: 
-- **Email**::
-  
-## Contribuciones y Publicaciones
-
-
-
-
-
-
-
-</div></div>
-
-
-
-
- 
