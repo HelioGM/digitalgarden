@@ -12,7 +12,7 @@
 >
 >> [!example|min-0]+ Autores
 >> 
->> **FirstAuthor**:: [[Zotero/Autores/Riepma, P.\|Riepma, P.]]  
+>> **FirstAuthor**:: [[Riepma, P.\|Riepma, P.]]  
 >> **Author**:: [[Weng, Wong Phui\|Weng, Wong Phui]]  
  >
 >

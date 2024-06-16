@@ -12,7 +12,7 @@
 >
 >> [!example|min-0]+ Autores
 >> 
->> **FirstAuthor**:: [[Zotero/Autores/Moore, J. J.\|Moore, J. J.]]  
+>> **FirstAuthor**:: [[Moore, J. J.\|Moore, J. J.]]  
  >
 >
 >> [!info|wide-2]+

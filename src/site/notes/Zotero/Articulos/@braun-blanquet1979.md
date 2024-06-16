@@ -12,7 +12,7 @@
 >
 >> [!example|min-0]+ Autores
 >> 
->> **FirstAuthor**:: [[Zotero/Autores/Braun-Blanquet, J.\|Braun-Blanquet, J.]]  
+>> **FirstAuthor**:: [[Braun-Blanquet, J.\|Braun-Blanquet, J.]]  
  >
 >
 >> [!info|wide-2]+

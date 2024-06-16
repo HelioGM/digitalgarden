@@ -12,7 +12,7 @@
 >
 >> [!example|min-0]+ Autores
 >> 
->> **FirstAuthor**:: [[Zotero/Autores/Elzinga, Caryl\|Elzinga, Caryl]]  
+>> **FirstAuthor**:: [[Elzinga, Caryl\|Elzinga, Caryl]]  
 >> **Author**:: [[Salzer, Daniel\|Salzer, Daniel]]  
 >> **Author**:: [[Willoughby, John\|Willoughby, John]]  
  >

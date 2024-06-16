@@ -12,7 +12,7 @@
 >
 >> [!example|min-0]+ Autores
 >> 
->> **FirstAuthor**:: [[Zotero/Autores/McAuliffe, Joseph R.\|McAuliffe, Joseph R.]]  
+>> **FirstAuthor**:: [[McAuliffe, Joseph R.\|McAuliffe, Joseph R.]]  
  >
 >
 >> [!info|wide-2]+

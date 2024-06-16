@@ -12,7 +12,7 @@
 >
 >> [!example|min-0]+ Autores
 >> 
->> **FirstAuthor**:: [[Zotero/Autores/Everson, C. S.\|Everson, C. S.]]  
+>> **FirstAuthor**:: [[Everson, C. S.\|Everson, C. S.]]  
 >> **Author**:: [[Clarke, G. P. Y.\|Clarke, G. P. Y.]]  
  >
 >
