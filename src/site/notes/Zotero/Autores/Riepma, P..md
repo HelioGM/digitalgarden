@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/zotero/autores/riepma-p/","tags":["#autor","#researcher"]}
+{"dg-publish":true,"permalink":"/zotero/autores/riepma-p/","tags":["autor","researcher"]}
 ---
 
 

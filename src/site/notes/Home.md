@@ -27,6 +27,7 @@ aaaa
 
 ---
 
+
 > [!multi-column]
 >
 >> [!example|min-0]+ Autores
@@ -81,7 +82,7 @@ nota:: En una investigación previa que comparó dos métodos de muestreo, coefi
 
 
 
-## Importado: 2024-06-16 12:24 pm
+## Importado: 2024-06-16 12:34 pm
 
 
 > [!gris]  
