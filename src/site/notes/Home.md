@@ -27,5 +27,26 @@ Esta es la página principal de mi Digital Garden.
 
 [[Zotero/Autores/Riepma, P.\|Riepma, P.]]
 
-a ver ahora
+## Lista de notas de MetodosEstudio
+
+**MétodosEstudio**: Métodos para el estudio y análisis de comunidades vegetales.
+
+
+{ .block-language-dataview}
+
+
+## Lista de notas de Muestreo
+
+**Muestreo**: Métodos y técnicas de muestreo para la evaluación y monitoreo de malezas.
+
+- [[Zotero/Articulos/@riepma1963\|@riepma1963]]: El artículo compara diferentes métodos para registrar malezas herbáceas en experimentos de control de malezas. Se evalúan la precisión y practicidad de varios enfoques, proporcionando recomendaciones para seleccionar métodos adecuados en investigaciones experimentales ([Riepma y Weng, 1963](zotero://select/library/items/C5EZAFZK)).
+
+{ .block-language-dataview}
+
+## Lista de notas de EvaluacionEficacia
+
+ **EvaluaciónEficacia**: Evaluación de la eficacia de herbicidas y métodos de control de malezas.
+
+
+{ .block-language-dataview}
  
