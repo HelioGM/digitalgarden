@@ -522,3 +522,5 @@ nota:: En una investigación previa que comparó dos métodos de muestreo, coefi
 aaaa
 
 [[NOTAS/Literatura/Zotero/Import/@riepma1963\|@riepma1963]]
+
+a ver que pasó
