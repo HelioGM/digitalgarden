@@ -1,0 +1,40 @@
+.callout[data-callout="amarillo"] {
+    --callout-color: 255, 212, 0;
+    --callout-icon: lucide-quote;
+}
+
+.callout[data-callout="azul"] {
+    --callout-color: 46, 168, 229;
+    --callout-icon: lucide-quote;
+}
+
+.callout[data-callout="morado"] {
+    --callout-color: 162, 138, 229;
+    --callout-icon: lucide-quote;
+}
+
+.callout[data-callout="rojo"] {
+    --callout-color: 255, 102, 102;
+    --callout-icon: lucide-quote;
+}
+
+.callout[data-callout="verde"] {
+    --callout-color: 95, 178, 54;
+    --callout-icon: lucide-quote;
+}
+
+.callout[data-callout="rosa"] {
+    --callout-color: 229, 110, 238;
+    --callout-icon: lucide-quote;
+}
+
+.callout[data-callout="naranja"] {
+    --callout-color: 241, 152, 55;
+    --callout-icon: lucide-quote;
+}
+
+
+.callout[data-callout="gris"] {
+    --callout-color: 170, 170, 170;
+    --callout-icon: lucide-quote;
+}
