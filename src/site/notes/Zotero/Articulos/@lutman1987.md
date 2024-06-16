@@ -12,7 +12,7 @@
 >
 >> [!example|min-0]+ Autores
 >> 
->> **FirstAuthor**:: [[Lutman, P. J. W.\|Lutman, P. J. W.]]  
+>> **FirstAuthor**:: [[Zotero/Autores/Lutman, P. J. W.\|Lutman, P. J. W.]]  
 >> **Author**:: [[Tucker, G. G.\|Tucker, G. G.]]  
 >> **Author**:: [[Broad, Hilary\|Broad, Hilary]]  
  >

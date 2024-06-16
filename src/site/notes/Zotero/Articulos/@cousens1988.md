@@ -12,7 +12,7 @@
 >
 >> [!example|min-0]+ Autores
 >> 
->> **FirstAuthor**:: [[Cousens, R.\|Cousens, R.]]  
+>> **FirstAuthor**:: [[Zotero/Autores/Cousens, R.\|Cousens, R.]]  
  >
 >
 >> [!info|wide-2]+

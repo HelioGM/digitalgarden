@@ -12,7 +12,7 @@
 >
 >> [!example|min-0]+ Autores
 >> 
->> **FirstAuthor**:: [[Turner, David L.\|Turner, David L.]]  
+>> **FirstAuthor**:: [[Zotero/Autores/Turner, David L.\|Turner, David L.]]  
 >> **Author**:: [[Ralphs, Michael H.\|Ralphs, Michael H.]]  
 >> **Author**:: [[Evans, John O.\|Evans, John O.]]  
  >

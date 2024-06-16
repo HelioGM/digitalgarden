@@ -12,7 +12,7 @@
 >
 >> [!example|min-0]+ Autores
 >> 
->> **FirstAuthor**:: [[Berti, A.\|Berti, A.]]  
+>> **FirstAuthor**:: [[Zotero/Autores/Berti, A.\|Berti, A.]]  
 >> **Author**:: [[Zanin, G.\|Zanin, G.]]  
 >> **Author**:: [[Baldoni, G.\|Baldoni, G.]]  
 >> **Author**:: [[Grignani, C.\|Grignani, C.]]  
