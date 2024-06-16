@@ -29,7 +29,7 @@
 >>
 >> - **Ver en carpeta**: 
 >> - [BLM_Measuring_and_monitoring.pdf](file://J:\OneDrive\Articulos\BLM_Measuring_and_monitoring.pdf)
->> - **tags**:: #Basados, #gpt, #MetodosEstudio
+>> - **tags**:: #gpt, #Basados, #MetodosEstudio
 
 
 
