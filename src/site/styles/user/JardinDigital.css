@@ -1,0 +1,13 @@
+.theme-light, .theme-light.minimal-default-light, body .excalidraw {
+
+    --ax1: #00894d;
+
+}
+
+
+.theme-dark.minimal-things-dark, .theme-light.minimal-things-light {
+
+    --color-red: #ae8f5fff;
+    --color-purple: #00894d
+
+}
