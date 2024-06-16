@@ -65,23 +65,22 @@ Esta es la página principal de mi Digital Garden.
 
 
 
-# Lista de notas de EcologiaMaleza
+# Lista de notas de Muestreo
 
-**EcologiaMaleza**: Aspectos ecológicos de las malezas en sistemas naturales y agrícolas.
+**Muestreo**: Métodos y técnicas de muestreo para la evaluación y monitoreo de malezas.
 
-- [[NOTAS/Literatura/Zotero/Import/@holt1991\|@holt1991]]: \-
-- [[NOTAS/Literatura/Zotero/Import/@booth2003\|@booth2003]]: \-
-- [[NOTAS/Literatura/Zotero/Import/@contrerasdelacruz2006\|@contrerasdelacruz2006]]: \-
-- [[NOTAS/Literatura/Zotero/Import/@nkoa2015\|@nkoa2015]]: \-
-- [[NOTAS/Literatura/Zotero/Import/@espinosa-garcia2017\|@espinosa-garcia2017]]: \-
-- [[NOTAS/Literatura/Zotero/Import/@storkey2018\|@storkey2018]]: \-
-- [[NOTAS/Literatura/Zotero/Import/@pala2020\|@pala2020]]: \-
-- [[NOTAS/Literatura/Zotero/Import/@krahmer2020\|@krahmer2020]]: \-
+- [[NOTAS/Literatura/Zotero/Import/@riepma1963\|@riepma1963]]: El artículo compara diferentes métodos para registrar malezas herbáceas en experimentos de control de malezas. Se evalúan la precisión y practicidad de varios enfoques, proporcionando recomendaciones para seleccionar métodos adecuados en investigaciones experimentales ([Riepma y Weng, 1963](zotero://select/library/items/C5EZAFZK)).
+- [[NOTAS/Literatura/Zotero/Import/@cousens1988\|@cousens1988]]: \-
+- [[NOTAS/Literatura/Zotero/Import/@mcauliffe1990\|@mcauliffe1990]]: \-
+- [[NOTAS/Literatura/Zotero/Import/@berti1992\|@berti1992]]: \-
+- [[NOTAS/Literatura/Zotero/Import/@hess1997\|@hess1997]]: \-
+- [[NOTAS/Literatura/Zotero/Import/@binns2001\|@binns2001]]: \-
+- [[NOTAS/Literatura/Zotero/Import/@ambrosio2004\|@ambrosio2004]]: Este estudio evalúa diferentes métodos de muestreo y determina el tamaño de muestra adecuado para estimar el banco de semillas de malezas en el suelo, considerando la variabilidad espacial. Se enfoca en optimizar el muestreo para obtener estimaciones precisas y confiables, cruciales para la planificación de estrategias de manejo de malezas ([Ambrosio et al., 2004](zotero://select/library/items/6U8TVNV2)).
+- [[NOTAS/Literatura/Zotero/Import/@onofri2010a\|@onofri2010a]]: \-
+- [[NOTAS/Literatura/Zotero/Import/@padonou2022\|@padonou2022]]: \-
+- [[NOTAS/Literatura/Zotero/Import/@gandia2022\|@gandia2022]]: \-
 
 { .block-language-dataview}
-
----
-
 
 
 </div></div>
