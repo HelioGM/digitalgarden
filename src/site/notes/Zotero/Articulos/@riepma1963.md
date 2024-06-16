@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/zotero/articulos/riepma1963/","title":"A Comparison of Methods of Recording Herbaceous Weeds in Weed Control Experiments","tags":["zotero"]}
+{"dg-publish":true,"permalink":"/zotero/articulos/riepma1963/","title":"A Comparison of Methods of Recording Herbaceous Weeds in Weed Control Experiments","tags":["#zotero"]}
 ---
 
 
@@ -62,7 +62,7 @@ nota:: En una investigación previa que comparó dos métodos de muestreo, coefi
 
 
 
-## Importado: 2024-06-16 12:34 pm
+## Importado: 2024-06-16 1:51 pm
 
 
 > [!gris]  

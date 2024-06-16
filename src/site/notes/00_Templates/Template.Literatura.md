@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-templates/template-literatura/","title":{"{ title }":null},"tags":["zotero"]}
+{"dg-publish":true,"permalink":"/00-templates/template-literatura/","title":{"{ title }":null},"tags":["#zotero"]}
 ---
 
 
