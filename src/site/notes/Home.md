@@ -11,22 +11,22 @@ Mantener una base de datos bien organizada permite crear consultas (queries) que
 
 ## Listas
 
-- [[Listas/EcologiaMaleza\|EcologiaMaleza]]
-- [[Listas/MetodosEstudio\|MetodosEstudio]]
+- [[Listas/EcologiaMaleza\|Ecología de maleza]]
+- [[Listas/MetodosEstudio\|Métodos de estudio]]
 - [[Listas/Muestreo\|Muestreo]]
-- [[Listas/EvaluacionEficacia\|EvaluacionEficacia]]
-- [[Listas/EvaluacionRemota\|EvaluacionRemota]]
-- [[Listas/AnalisisImagen\|AnalisisImagen]]
-- [[Listas/DeteccionAutomática\|DeteccionAutomática]]
-- [[Listas/ModelosPredictivos\|ModelosPredictivos]]
+- [[Listas/EvaluacionEficacia\|Evaluación de eficacia]]
+- [[Listas/EvaluacionRemota\|Evaluación remota]]
+- [[Listas/AnalisisImagen\|Análisis de imagen]]
+- [[Listas/DeteccionAutomática\|Detección automática]]
+- [[Listas/ModelosPredictivos\|Modelos predictivos]]
 
 ## Tablas
 
-- [[Tablas/tablaEcologiaMaleza\|tablaEcologiaMaleza]]
-- [[Tablas/tablaMetodosEstudio\|tablaMetodosEstudio]]
+- [[Tablas/tablaEcologiaMaleza\|Ecología de maleza]]
+- [[tablaMetodosEstudio|Métodos de estudio]
 - [[Tablas/tablaMuestreo\|tablaMuestreo]]
-- [[Tablas/tablaEvaluacionEficacia\|tablaEvaluacionEficacia]]
-- [[Tablas/tablaEvaluacionRemota\|tablaEvaluacionRemota]]
-- [[Tablas/tablaAnalisisImagen\|tablaAnalisisImagen]]
-- [[Tablas/tablaDeteccionAutomática\|tablaDeteccionAutomática]]
-- [[Tablas/tablaModelosPredictivos\|tablaModelosPredictivos]]
+- [[Tablas/tablaEvaluacionEficacia\|Evaluación de eficacia]]
+- [[Tablas/tablaEvaluacionRemota\|Evaluación remota]]
+- [[Tablas/tablaAnalisisImagen\|Análisis de imagen]]
+- [[Tablas/tablaDeteccionAutomática\|Detección automática]]
+- [[Tablas/tablaModelosPredictivos\|Modelos predictivos]]
