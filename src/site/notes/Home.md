@@ -23,8 +23,8 @@ Mantener una base de datos bien organizada permite crear consultas (queries) que
 ## Tablas
 
 - [[Tablas/tablaEcologiaMaleza\|Ecología de maleza]]
-- [[tablaMetodosEstudio|Métodos de estudio]
-- [[Tablas/tablaMuestreo\|tablaMuestreo]]
+- [[Tablas/tablaMetodosEstudio\|Métodos de estudio]]
+- [[Tablas/tablaMuestreo\|Muestreo]]
 - [[Tablas/tablaEvaluacionEficacia\|Evaluación de eficacia]]
 - [[Tablas/tablaEvaluacionRemota\|Evaluación remota]]
 - [[Tablas/tablaAnalisisImagen\|Análisis de imagen]]
