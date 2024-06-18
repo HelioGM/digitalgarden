@@ -31,8 +31,3 @@ Mantener una base de datos bien organizada permite crear consultas (queries) que
 - [[Tablas/tablaDeteccionAutomática\|Detección automática]]
 - [[Tablas/tablaModelosPredictivos\|Modelos predictivos]]
 
-## Test
-
-- [[Descripción de las principales malas hierbas del sur de sonora\|Descripción de las principales malas hierbas del sur de sonora]]
-
-aaa ver
